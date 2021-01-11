@@ -127,7 +127,9 @@ DisplayLink
 F: Drivers/DisplayLink/
 M: Leif Lindholm <leif@nuviainc.com>
 M: Ard Biesheuvel <ardb+tianocore@kernel.org>
-R: Andy Hayes <andy.hayes@displaylink.com>
+R: Andy Hayes <andy@british-racing-green.co.uk>
+R: Maciej Grzywocz <maciej.grzywocz@synaptics.com>
+R: Sebastian Olney <sebastian.olney@synaptics.com>
 
 HiSilicon
 F: Platform/Hisilicon/
